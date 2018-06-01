@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+#general java
+*.class
+*.war
+*.jar
+
+# python
+*.pyc
+.checkstyle
+
+# eclipse stuffs
+.settings/*
+*/.settings/
+.classpath
+.project
+*/.externalToolBuilders
+*/maven-eclipse.xml
+
+# intellij stuff
+.idea/
+*.iml
+
+#maven stuffs
+target/
+release/
+RESULTS/
+CSV_EXPORT/
+
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 89a4aae33347dfb69f8c2d8f2d6bc300c8b2062a
